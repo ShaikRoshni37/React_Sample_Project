@@ -1,0 +1,9 @@
+.users-list{
+    display:flex;
+    width:400px;
+    flex-direction:row;
+    justify-content : space-between;
+    align-items:center;
+    background-color:antiquewhite;
+    margin-bottom:10px;
+    }
